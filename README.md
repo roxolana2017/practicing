@@ -1,2 +1,2 @@
-# practicing
+<!DOCTYPE html>
 first steps
